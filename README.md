@@ -8,4 +8,4 @@ Problems from online judges like AtCoder, CodeChef, Codeforces, Glassdoor, Hacke
 ### Language I Use: Python
 
 ### My Profiles:
-1. LeetCode: https://leetcode.com/u/n154r64/
+1. [LeetCode](https://leetcode.com/u/n154r64/)
