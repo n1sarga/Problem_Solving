@@ -3,7 +3,7 @@
 Problems from online judges like AtCoder, CodeChef, Codeforces, Glassdoor, HackerRank, LeetCode, StrataScratch etc. will be uploaded here.
 
 ### Concepts I Use:
-1. Brute Force
+1. Basics
 
 ### Language I Use: Python
 
